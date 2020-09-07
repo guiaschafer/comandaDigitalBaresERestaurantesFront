@@ -18,7 +18,7 @@ const Template = (props) => (
     </p>
     <ul className={props.status}>
         <li>Task 1321</li>
-        <li>Task 2</li>
+        <li>Task 2321</li>
         <li>Task 3</li>
     </ul>
   </div>
